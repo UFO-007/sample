@@ -1,6 +1,8 @@
 #include <HardwareSerial.h>
 #include <IRremote.hpp>
 
+// че нибудь пишем
+// для шита изменения
 
 #define ESP_BAUDRATE 115200
 #define DEBUG_BAUDRATE 115200
